@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /404.php
+Disallow: /403.php
+Disallow: /admin_office.php
+Disallow: /add-admin.php
+Disallow: /list-admin.php
+Disallow: /add-art.php
+Disallow: /modif-art.php
+Disallow: /add-event.php
+Disallow: /modif-event.php
+Disallow: /list-newsletter.php
+Sitemap: https://www.bnkcommunity.com/sitemap.xml

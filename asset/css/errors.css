@@ -1,0 +1,44 @@
+    header{
+        display: none;
+    }
+    
+    .error{
+        background: #000000;
+        text-align: center;
+        position: relative;
+        top: 200px;
+    }
+
+    .error h1{
+        color: #6c6c6c;
+        font-family: 'BebasNeue_bold.otf';
+        font-size: 5.6em;
+        margin-bottom: -20px;
+    }
+
+    .error h2{
+        color: #6c6c6c;
+        font-family: 'BebasNeue_thin.otf';
+        margin-bottom: 20px;
+    }
+
+    .error a{
+        text-decoration: none;
+        position: relative;
+        top: 30px;
+        padding: 20px;
+        background: rgb(203, 32, 37);
+        text-align: center;
+        margin-top: 20px;
+        color: #FFFFFF;
+        border: 1px solid #000000;
+        transition: 1s;
+        border: 1px solid #000000;
+    }
+
+    .error a:hover{
+
+        border: 1px solid rgb(203, 32, 37);
+        background: #000000;
+        transition: 1s;
+    }
